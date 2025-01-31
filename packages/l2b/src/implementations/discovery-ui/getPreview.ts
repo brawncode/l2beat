@@ -1,6 +1,6 @@
 import {
-  ProjectDiscovery,
   type ProjectContract,
+  ProjectDiscovery,
   type ScalingProjectPermissions,
 } from '@l2beat/config'
 import type { ConfigReader } from '@l2beat/discovery'
